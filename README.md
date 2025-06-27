@@ -1,2 +1,3 @@
 # react-lodash-debounce-example
-Created with CodeSandbox
+
+https://sajadtorkamani.com/debounce-api-calls-in-react-using-lodash/
